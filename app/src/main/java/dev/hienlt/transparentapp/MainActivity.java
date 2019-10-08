@@ -33,6 +33,7 @@ public class MainActivity extends AppCompatActivity {
         ContextCompat.startForegroundService(this, intent);
 
         //Test 1
+        //Test 2
     }
 
     @Override
