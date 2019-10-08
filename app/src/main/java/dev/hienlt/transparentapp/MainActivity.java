@@ -31,6 +31,8 @@ public class MainActivity extends AppCompatActivity {
         //Start service
         Intent intent = new Intent(this, TestService.class);
         ContextCompat.startForegroundService(this, intent);
+
+        //Test 1
     }
 
     @Override
